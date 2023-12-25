@@ -1,1 +1,40 @@
 /*  your css code here. If applicable */
+body{
+	background:#f8f8f8;
+}
+h1{
+	text-align:center;
+}
+h2{
+	text-align:left;
+	margin-bottom:-10px;
+	padding-left:10px;
+	
+}
+p{
+	text-align:left;
+	padding-left:10px;
+	color:#777777;
+}
+#rate{
+	text-align:center;
+	padding-top:3px;
+}
+.price{
+	height:25px;
+	background:#2ecc71;
+	
+}
+
+hr{
+	height:20px;
+	background:white;
+}
+.book-library{
+background:#ffffff;
+	text-align:center;
+
+}
+.book-library img{
+	padding:10px;
+}
